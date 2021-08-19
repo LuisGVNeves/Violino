@@ -120,13 +120,245 @@ body{
 }
 
 
-
-
 /*audios*/
-#wood{
+.audios{
+    margin-right: 0px;
+}
+/*primeira parte*/
+#chapeu-d, #chapeu-y,#zero,#nove,#noventa-dois,#e,#E, #e6,#ed,
+#ge,#i9,#p9,#pE,#pi8,#PI9,#pje,#PJE,#q,#qf,#qidp,#qp,#qpi,#S1e,
+#se,#sq,#SQL,#t,#to8,#zqd,#yp,#yw,#yi8,#yi,#y9,#y,#ws,#WPJ,#wo,
+#w,#uo8,#ts,#tp,#wood{
     position: absolute;
     top: 0%;
     right: 250px;
     margin-top: 20px;
-    padding: 10px;
+    width: 60px;
+    height: 40px;
+    margin-right: 380px;
+
+}
+#chapeu-y{
+    right: 300px;
+    margin-right: 400px;
+}
+#zero{
+    right: 200px;
+    margin-right: 360px;
+}
+#nove{
+    right: 150px;
+    margin-right: 340px;
+
+}
+#noventa-dois{
+    right: 100px;
+    margin-right: 320px;
+}
+#e{
+    right: 50px;
+    margin-right: 300px;
+
+}
+#E{
+    right: 3px;
+    margin-right: 280px;
+
+}
+
+
+/*Segunda parte*/
+#e6{
+    margin-top: 70px;
+    margin-right: 380px;
+}
+#ed{
+    margin-top: 70px;
+    right: 300px;
+    margin-right: 400px;
+}
+#ge{
+    right: 200px;
+    margin-top: 70px;
+    margin-right: 360px;
+}
+#i9{
+    right: 150px;
+    margin-top: 70px;
+    margin-right: 340px;
+}
+#p9{
+    margin-top: 70px;
+    right: 100px;
+    margin-right: 320px;
+}
+#pE{
+    right: 50px;
+    margin-top: 70px;
+    margin-right: 300px;
+}
+#pi8{
+    right: 3px;
+    margin-top: 70px;
+    margin-right: 280px;
+}
+
+/*terceira parte*/
+#PI9{
+    margin-top: 120px;
+    margin-right: 380px;
+}
+#pje{
+    right: 300px;
+    margin-top: 120px;
+    margin-right: 400px;
+}
+#PJE{
+    right: 200px;
+    margin-top: 120px;
+    margin-right: 360px;
+}
+#q{
+    margin-top: 120px;
+    right: 150px;
+    margin-right: 340px;
+}
+#qf{
+    margin-top: 120px;
+    margin-right: 320px;
+    right: 100px;
+}
+#qidp{
+    margin-top: 120px;
+    right: 50px;
+    margin-right: 300px;
+}
+#qp{
+    margin-top: 120px;
+    right: 3px;
+    margin-right: 280px;
+}
+
+/*parte quatro*/
+#qpi{
+    margin-top: 170px;
+    margin-right: 380px;
+}
+#S1e{
+    margin-top: 170px;
+    right: 300px;
+    margin-right: 400px;
+}
+#se{    
+    margin-top: 170px;
+    right: 200px; 
+    margin-right: 360px;
+}
+#sq{
+    margin-top: 170px;
+    right: 150px;
+    margin-right: 340px;
+
+}
+#SQL{ 
+    margin-top: 170px;
+    right: 100px;
+    margin-right: 320px;
+
+}
+#t{    
+    margin-top: 170px;
+    margin-right: 300px;
+    right: 50px;
+}
+#to8{   
+    margin-top: 170px;
+    margin-right: 280px;
+    right: 3px;
+}
+
+
+/*parte 5*/
+#tp{
+    margin-top: 220px;
+    margin-right: 380px;
+}
+#ts{
+    margin-top: 220px;
+    right: 300px;
+    margin-right: 400px;
+
+}
+#uo8{
+    margin-top: 220px;
+    right: 200px;
+    margin-right: 360px;
+
+}
+#w{
+    margin-top: 220px;
+    right: 150px;
+    margin-right: 340px;
+}
+#wo{
+    margin-top: 220px;
+    right: 100px;
+    margin-right: 320px;
+
+}
+#WPJ{
+    margin-top: 220px;
+    right: 50px;
+    margin-right: 300px;
+
+}
+#ws{    
+    margin-right: 280px;
+    margin-top: 220px;
+    right: 3px;
+}
+
+/*parte 6*/
+#y{
+    margin-top: 270px;
+    margin-right: 380px;
+}
+#y9{
+    margin-top: 270px;
+    right: 300px;
+    margin-right: 400px;
+
+}
+#yi{
+    margin-top: 270px;
+    right: 200px;
+    margin-right: 360px;
+
+}
+#yi8{
+    margin-top: 270px;
+    right: 150px;
+    margin-right: 340px;
+
+}
+#yw{
+    margin-top: 270px;
+    right: 100px;
+    margin-right: 320px;
+}
+#yp{
+    margin-top: 270px;
+    right: 50px;
+    margin-right: 300px;
+
+}
+#zqd{
+    margin-top: 270px;
+    margin-right: 280px;
+    right: 3px;
+}
+
+#wood{
+    right: 320px;
+    margin-top: 320px;
 }
