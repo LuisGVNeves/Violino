@@ -125,7 +125,7 @@ body{
     margin-right: 0px;
 }
 /*primeira parte*/
-#chapeu-d, #chapeu-y,#zero,#nove,#noventa-dois,#e,#E, #e6,#ed,
+#chapeu-d, #chapeu-z,#zero,#nove,#noventa-dois,#e,#E, #e6,#ed,
 #ge,#i9,#p9,#pE,#pi8,#PI9,#pje,#PJE,#q,#qf,#qidp,#qp,#qpi,#S1e,
 #se,#sq,#SQL,#t,#to8,#zqd,#yp,#yw,#yi8,#yi,#y9,#y,#ws,#WPJ,#wo,
 #w,#uo8,#ts,#tp,#wood{
@@ -138,7 +138,7 @@ body{
     margin-right: 380px;
 
 }
-#chapeu-y{
+#chapeu-z{
     right: 300px;
     margin-right: 400px;
 }
@@ -356,9 +356,4 @@ body{
     margin-top: 270px;
     margin-right: 280px;
     right: 3px;
-}
-
-#wood{
-    right: 320px;
-    margin-top: 320px;
 }
